@@ -1,0 +1,31 @@
+h1{
+    color: rgb(246, 91, 92);
+    background-color: rgb(234, 233, 233);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+h2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+u1{
+    color: rgb(201, 202, 203);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+body{
+    background-color: rgb(234, 233, 233);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+a{
+    color: white;
+    font-weight: bold;
+    background-color: rgb(246, 91, 92);
+    padding: 10px;
+    margin: 20px;
+}
+span{
+    color: rgb(201, 202, 203);
+}
